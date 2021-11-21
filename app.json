@@ -1,0 +1,14 @@
+﻿{
+    "name": "xray-1",
+    "description": "xray-1",
+    "logo":"xray-1",
+    "keywords": ["xray-1"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/qazwsxhub123456/xary-heroku.git",
+    "stack": "container"
+}
